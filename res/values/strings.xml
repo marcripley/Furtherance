@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Furtherance</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_pursuitMessage">Add a Pursuit</string>
+    <string name="button_add">Add</string>
+    <string name="title_activity_pursuit">New Pursuit</string>
+    <string name="title_activity_add_pursuit">AddPursuitActivity</string>
+
+</resources>
